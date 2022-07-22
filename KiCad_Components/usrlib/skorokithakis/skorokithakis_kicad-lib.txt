@@ -1,0 +1,5 @@
+
+Link:       https://github.com/skorokithakis/kicad-lib
+
+Part(s):    DHT22
+
