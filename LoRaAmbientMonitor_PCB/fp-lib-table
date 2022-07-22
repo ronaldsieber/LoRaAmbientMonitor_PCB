@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name Heltec_WiFi_LoRa_V2)(type KiCad)(uri ${USRMOD}/Heltec_WiFi_LoRa_V2)(options "")(descr ""))
+  (lib (name Adafruit_ADS1115)(type KiCad)(uri ${USRMOD}/Adafruit_ADS1115)(options "")(descr ""))
+  (lib (name Everlight_AmbientLightSensor)(type KiCad)(uri ${USRMOD}/Everlight_AmbientLightSensor)(options "")(descr ""))
+  (lib (name HC-SR501)(type KiCad)(uri ${USRMOD}/HC-SR501)(options "")(descr ""))
+  (lib (name Sensors)(type KiCad)(uri ${USRMOD}/skorokithakis/kicad-lib-master/Sensors.pretty)(options "")(descr ""))
+)

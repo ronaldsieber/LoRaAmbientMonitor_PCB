@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name Heltec_WiFi_LoRa_V2)(type Legacy)(uri ${USRMOD}/Heltec_WiFi_LoRa_V2/Heltec_WiFi_LoRa_V2.lib)(options "")(descr ""))
+  (lib (name Adafruit_ADS1115)(type Legacy)(uri "${USRMOD}/Adafruit_ADS1115/Adafruit ADS1115.lib")(options "")(descr ""))
+  (lib (name Sensors)(type Legacy)(uri ${USRMOD}/skorokithakis/kicad-lib-master/sensors.lib)(options "")(descr ""))
+  (lib (name Everlight_AmbientLightSensor)(type Legacy)(uri ${USRMOD}/Everlight_AmbientLightSensor/ALS-PDIC243.lib)(options "")(descr ""))
+  (lib (name HC-SR501)(type Legacy)(uri ${USRMOD}/HC-SR501/HC-SR501.lib)(options "")(descr ""))
+)
