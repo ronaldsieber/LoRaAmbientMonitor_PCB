@@ -77,9 +77,5 @@ The 4-channel 15-bit ADC module (U2, Adafruit_ADS1115 module) is only equipped o
 
 - [LoRaAmbientMonitor_IoCheck](https://github.com/ronaldsieber/LoRaAmbientMonitor_IoCheck) - Checking of all components during commissioning and starting point for new software projects based on this board
 
-- **LoRaAmbienteMonitor (in Q4/2022 or Q1/2023)**
-- (1) Arduino Sketch / Firmware for the LoRaAmbienteMonitor_PCB (transmitter side)
-- (2) Raspberry Pi Application for receiving and processing the environmental data (receiver side)
-(Both, Arduino Sketch / Firmware for the LoRaAmbienteMonitor_PCB and Raspberry Pi Application are expected to be completed by Q4/2022 or Q1/2023)
-
+- [LoraAmbientMonitor](https://github.com/ronaldsieber/LoraAmbientMonitor) - Complete software ecosystem for the *LoRaAmbienteMonitor* module, consisting of ESP32/Arduino firmware (transmitting side), Raspberry Pi gateway software (receiving and processing ambient data) and Windows/GUI commissioning tool.
 
